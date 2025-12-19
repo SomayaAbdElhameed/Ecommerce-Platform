@@ -1,5 +1,5 @@
 
-  # Ecommerce Platform
+  # Ecommerce-Platform
 
   This is a code bundle for Ecommerce Platform. The original project is available at https://www.figma.com/design/4u56CDw9skLZCB1yI9bdlf/Ecommerce-Platform.
 
